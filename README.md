@@ -15,3 +15,7 @@ I designed a PCB to keep everything neat and tidy and also added some red transp
 There are 2 versions available, one that runs off a 9V battery (untested) and one that runs off 5V USB C power - Both versions are available.
 
 ![image](https://github.com/user-attachments/assets/5ecac74b-ba1e-46a8-9963-a78da28d2065)
+
+Instructables step by step guide: https://www.instructables.com/CMOS-Counter-Clock/
+
+Youtube Vid Build: https://www.youtube.com/watch?v=ALrcwJxQYL8&source_ve_path=Mjg2NjY
